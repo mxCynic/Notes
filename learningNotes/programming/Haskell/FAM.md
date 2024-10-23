@@ -9,6 +9,7 @@ tags: []
 ```
 SuperClass(超类) ---------->->->->->-> SubClass(子类)
 Functor ---> Applicative ---> Monad
+
 ```
 ## minimal complete definition 
 
