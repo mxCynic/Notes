@@ -1,3 +1,9 @@
+---
+id: Life is a storm
+aliases: []
+tags: []
+---
+
 Life is a storm, my young friend. You will ==bask== in the sunlight one moment, be ==shattered== on the rocks the next. What makes you a man is what you do when that storm comes. You must look into that storm and shout as you did in ==Rome==. Do your worst, for I will do mine! Then the fates will know you as we know you.
 
 ## chatgpt
