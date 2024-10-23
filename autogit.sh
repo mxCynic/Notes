@@ -1,6 +1,7 @@
 #!/bin/bash
 # this scritp use to auto update files
-cd ~/Documents/Obsidian Vault
+cd /home/mx/Documents/Obsidian\ Vault
+
 git ls-files --others --exclude-standard | xargs git add
 git diff --name-only | xargs git add
 
