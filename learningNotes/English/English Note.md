@@ -1,3 +1,9 @@
+---
+id: English Note
+aliases: []
+tags: []
+---
+
 ## words
 
 

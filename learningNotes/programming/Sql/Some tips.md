@@ -1,3 +1,9 @@
+---
+id: Some tips
+aliases: []
+tags: []
+---
+
 
 ## 按id分类，然后选择最早的date
 ```
@@ -63,3 +69,21 @@ from table
 where num = (select count(*) from table2)
 ```
 
+## 计算某一列的累加
+
+假设有一个primary autoincrement(自增主键)的id 
+```
+select *, num, sum(num) over (order by id)
+from table
+```
+## 创建一个临时表对象（比如分类,实际表中可能缺少了某些分类，我们创建这个表的目的是给一个标准）
+
+```
+with Category as (
+  select 'Low Salary' as Category
+  union all
+  select 'Average Salary' 
+  union all 
+  select 'High Salary'
+)
+```

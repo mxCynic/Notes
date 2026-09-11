@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="-850 -430 1700 900">
+  <rect x="-850" y="-430" width="1700" height="900" fill="#1e1e2e"/>
+  <defs>
+    <style>
+      .node { fill: #8b5e34; stroke: #f08c00; stroke-width: 2; rx: 12; }
+      .line { stroke: #d0d0d0; stroke-width: 5; fill: none; stroke-linecap: round; }
+      .title { fill: #f8f1e3; font-family: sans-serif; font-size: 42px; font-weight: 700; text-anchor: middle; dominant-baseline: middle; }
+      .text { fill: #f8f1e3; font-family: sans-serif; font-size: 22px; text-anchor: middle; dominant-baseline: middle; }
+      .small { font-size: 20px; }
+    </style>
+  </defs>
+
+  <path class="line" d="M -120 55 C -205 55 -215 -300 -300 -300"/>
+  <path class="line" d="M -120 55 C -205 55 -215 -147.5 -300 -147.5"/>
+  <path class="line" d="M -120 55 C -205 55 -215 5 -300 5"/>
+  <path class="line" d="M -120 55 C -205 55 -215 160 -300 160"/>
+  <path class="line" d="M -120 55 C -205 55 -215 340 -240 340"/>
+  <path class="line" d="M 120 55 C 205 55 215 -307.5 300 -307.5"/>
+  <path class="line" d="M 120 55 C 205 55 215 -157.5 300 -157.5"/>
+  <path class="line" d="M 120 55 C 205 55 215 -10 300 -10"/>
+  <path class="line" d="M 120 55 C 205 55 215 125 300 125"/>
+  <path class="line" d="M 120 55 C 205 55 215 282.5 300 282.5"/>
+
+  <rect class="node" x="-120" y="10" width="240" height="90" rx="12"/>
+  <text class="title" x="0" y="55">法律责任</text>
+
+  <rect class="node" x="-760" y="-360" width="460" height="120" rx="12"/>
+  <text class="text small" x="-530" y="-318"><tspan x="-530" dy="0">经营者</tspan><tspan x="-530" dy="30">限期改正、警告、五万以下罚款</tspan><tspan x="-530" dy="30">严重的，吊销许可证，五万以上五十万以下罚款</tspan></text>
+
+  <rect class="node" x="-760" y="-205" width="460" height="115" rx="12"/>
+  <text class="text small" x="-530" y="-165"><tspan x="-530" dy="0">公共场所吸烟</tspan><tspan x="-530" dy="30">改正、警告、五百以下罚款</tspan><tspan x="-530" dy="30">场所未制止，警告、一万以下罚款</tspan></text>
+
+  <rect class="node" x="-760" y="-55" width="460" height="120" rx="12"/>
+  <text class="text small" x="-530" y="-13"><tspan x="-530" dy="0">招聘童工</tspan><tspan x="-530" dy="30">限期改正，十万元以下罚款</tspan><tspan x="-530" dy="30">严重停业，一百万元以下罚款</tspan></text>
+
+  <rect class="node" x="-760" y="100" width="460" height="120" rx="12"/>
+  <text class="text small" x="-530" y="142"><tspan x="-530" dy="0">招聘人员</tspan><tspan x="-530" dy="30">限期改正、警告、五万以下</tspan><tspan x="-530" dy="30">停业整顿，五万以上五十万以下罚款</tspan></text>
+
+  <rect class="node" x="-760" y="255" width="520" height="170" rx="12"/>
+  <text class="text small" x="-500" y="278"><tspan x="-500" dy="0">网络安全</tspan><tspan x="-500" dy="27">责令改正，警告</tspan><tspan x="-500" dy="27">一百万以上，一倍以上十倍以下罚款</tspan><tspan x="-500" dy="27">不足一百万的，十万以上一百万以下</tspan><tspan x="-500" dy="27">直接责任人一万以上十万以下</tspan><tspan x="-500" dy="27">严重的暂停业务、关闭网站、吊销执照</tspan></text>
+
+  <rect class="node" x="300" y="-360" width="470" height="105" rx="12"/>
+  <text class="text small" x="535" y="-322"><tspan x="535" dy="0">有关部门知情不报</tspan><tspan x="535" dy="30">上级部门或者直接负责人</tspan><tspan x="535" dy="30">处分</tspan></text>
+
+  <rect class="node" x="300" y="-220" width="470" height="125" rx="12"/>
+  <text class="text small" x="535" y="-190"><tspan x="535" dy="0">父母不监护</tspan><tspan x="535" dy="28">居委会、村委会劝诫制止</tspan><tspan x="535" dy="28">严重的向公安机关报告</tspan><tspan x="535" dy="28">公安机关训诫</tspan></text>
+
+  <rect class="node" x="300" y="-60" width="470" height="100" rx="12"/>
+  <text class="text small" x="535" y="-25"><tspan x="535" dy="0">照顾未成年人机构</tspan><tspan x="535" dy="30">责令改正</tspan><tspan x="535" dy="30">严重处分</tspan></text>
+
+  <rect class="node" x="300" y="75" width="470" height="100" rx="12"/>
+  <text class="text small" x="535" y="110"><tspan x="535" dy="0">不给优惠</tspan><tspan x="535" dy="30">限期改正、警告</tspan><tspan x="535" dy="30">一万以上十万以下</tspan></text>
+
+  <rect class="node" x="300" y="210" width="520" height="145" rx="12"/>
+  <text class="text small" x="560" y="246"><tspan x="560" dy="0">新闻媒体</tspan><tspan x="560" dy="30">限期改正、警告、十万以下罚款</tspan><tspan x="560" dy="30">停产，一百万以上处十倍以下罚款</tspan><tspan x="560" dy="30">不足一百万的处十万以上一百万以下罚款</tspan></text>
+</svg>
